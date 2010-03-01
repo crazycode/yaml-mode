@@ -398,7 +398,7 @@ margin."
 
 
 (defun yaml-mode-version ()
-  "Diplay version of `yaml-mode'."
+  "Display version of `yaml-mode'."
   (interactive)
   (message "yaml-mode %s" yaml-mode-version)
   yaml-mode-version)
